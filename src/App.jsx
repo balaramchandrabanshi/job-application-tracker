@@ -1,11 +1,14 @@
+import Sidebar from './components/Sidebar/Sidebar'
 
-import './App.css'
 
-function App() {
+const App = () => {
   return (
     <>
+      <Sidebar></Sidebar>      
     </>
+    
   )
 }
 
 export default App
+
