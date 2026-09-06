@@ -2,9 +2,10 @@
     width: 260px;
     height: 100vh;
     padding: 24px 25px;
-    background-color: #C3C6D7;
+    background-color: #F2F4F6;
     display: flex;
     flex-direction: column;
+    border: 1px solid #C3C6D7;
 }
 
 .logo {
@@ -38,8 +39,8 @@
 }
 
 .sidebar ul li a:hover {
-    background-color: white;
-    color: black;
+    background-color: #D0E1FB;
+    color: #004AC6;
     transform: translateX(3px);
 }
 
@@ -66,8 +67,8 @@
 }
 
 .logout:hover {
-    background-color: white;
-    color: black;
+    background-color: #D0E1FB;
+    color: #004AC6;
     transform: translateX(3px);
 
 }
